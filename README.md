@@ -44,3 +44,11 @@ cd core-service
 composer install
 php artisan serve
 ```
+
+
+## 📝 Credits
+
+Penulis / Author: **Taufik Ilham**  
+Program Studi: **Sistem Informasi (SI)**, **Institut Teknologi Kalimantan (ITK)**  
+
+Terima kasih telah mengunjungi repository ini! 🙏
